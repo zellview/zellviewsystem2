@@ -1,7 +1,8 @@
 zellviewsystem2
 ===============
 
-Welcoe to **zellview**,
+Welcome to **zellview**,
+
 Herzlich Willkommen im **zellview**,
 
  Forum für Software, Entwicklung und Medienkompetenz
